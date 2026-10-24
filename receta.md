@@ -27,3 +27,7 @@ agregar los demas ingredientes sobra la masa
 media hora amazando 
 10 minutos de prepacion de todos los ingredientes
 30 minutos en el horno
+
+### mejora de receta
+
+si cambiamos la salsa de tomate por pasta de tomate queda mejor y mucho mas queso.
